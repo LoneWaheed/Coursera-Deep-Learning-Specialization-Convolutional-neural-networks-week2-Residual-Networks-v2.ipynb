@@ -1,1 +1,1 @@
-# Coursera-Deep-Learning-Specialization-Convolutional-neural-networks-week2-Residual-Networks-v2.ipynb
+# Coursera-week2-Convolutional-neural-networks-Residual-Networks-v2.ipynb
